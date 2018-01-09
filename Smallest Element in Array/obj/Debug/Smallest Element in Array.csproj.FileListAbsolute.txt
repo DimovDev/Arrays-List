@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\bin\Debug\Smallest Element in Array.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\bin\Debug\Smallest Element in Array.exe
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\bin\Debug\Smallest Element in Array.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\obj\Debug\Smallest Element in Array.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\obj\Debug\Smallest Element in Array.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\obj\Debug\Smallest Element in Array.exe
+C:\Users\DIMOV\source\repos\Arrays List\Smallest Element in Array\obj\Debug\Smallest Element in Array.pdb

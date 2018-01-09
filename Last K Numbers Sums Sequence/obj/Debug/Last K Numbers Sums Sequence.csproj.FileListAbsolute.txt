@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\DIMOV\source\repos\Arrays List\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.pdb

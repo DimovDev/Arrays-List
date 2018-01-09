@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.exe
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\bin\Debug\Reverse an Array of Strings.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.exe
+C:\Users\DIMOV\source\repos\Arrays List\Reverse an Array of Strings\obj\Debug\Reverse an Array of Strings.pdb

@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\bin\Debug\Array Contains Element.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\bin\Debug\Array Contains Element.exe
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\bin\Debug\Array Contains Element.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\obj\Debug\Array Contains Element.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\obj\Debug\Array Contains Element.exe
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\obj\Debug\Array Contains Element.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Array Contains Element\obj\Debug\Array Contains Element.csprojResolveAssemblyReference.cache

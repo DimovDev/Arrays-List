@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\obj\Debug\Sum Arrays.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\obj\Debug\Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\bin\Debug\Sum Arrays.exe
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\bin\Debug\Sum Arrays.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\obj\Debug\Sum Arrays.exe
+C:\Users\DIMOV\source\repos\Arrays List\Sum Arrays\obj\Debug\Sum Arrays.pdb

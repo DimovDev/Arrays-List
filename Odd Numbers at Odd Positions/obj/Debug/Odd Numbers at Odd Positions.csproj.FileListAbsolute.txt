@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\DIMOV\source\repos\Arrays List\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.pdb

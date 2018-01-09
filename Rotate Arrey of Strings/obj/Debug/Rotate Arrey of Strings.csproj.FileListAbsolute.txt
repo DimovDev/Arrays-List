@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\obj\Debug\Rotate Arrey of Strings.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\obj\Debug\Rotate Arrey of Strings.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\bin\Debug\Rotate Arrey of Strings.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\bin\Debug\Rotate Arrey of Strings.exe
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\bin\Debug\Rotate Arrey of Strings.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\obj\Debug\Rotate Arrey of Strings.exe
+C:\Users\DIMOV\source\repos\Arrays List\Rotate Arrey of Strings\obj\Debug\Rotate Arrey of Strings.pdb

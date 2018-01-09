@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\obj\Debug\Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\DIMOV\source\repos\Arrays List\Day of Week\obj\Debug\Day of Week.pdb

@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.exe
+C:\Users\DIMOV\source\repos\Arrays List\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.pdb

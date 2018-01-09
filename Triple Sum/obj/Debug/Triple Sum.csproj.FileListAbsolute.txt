@@ -1,0 +1,7 @@
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\bin\Debug\Triple Sum.exe.config
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\bin\Debug\Triple Sum.exe
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\bin\Debug\Triple Sum.pdb
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\obj\Debug\Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\obj\Debug\Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\obj\Debug\Triple Sum.exe
+C:\Users\DIMOV\source\repos\Arrays List\Triple Sum\obj\Debug\Triple Sum.pdb
